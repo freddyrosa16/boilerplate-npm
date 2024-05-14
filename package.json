@@ -1,6 +1,6 @@
 {
-	"author": "Freddy Rosa",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Freddy Rosa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
